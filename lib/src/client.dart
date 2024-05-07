@@ -1,4 +1,3 @@
-import 'package:meta/meta.dart';
 import 'package:http/http.dart';
 
 import 'base_client.dart';
